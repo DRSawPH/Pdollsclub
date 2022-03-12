@@ -249,7 +249,7 @@ function App() {
             >
               <StyledButton
                 onClick={(e) => {
-                  window.open("/config/roadmap.pdf", "_blank");
+                  window.open("https://poarchdolls.club/roadmap", "_blank");
                 }}
                 style={{
                   margin: "5px",
